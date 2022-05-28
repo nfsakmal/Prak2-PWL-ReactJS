@@ -4,6 +4,7 @@ import Portfolio from "./components/portfolio/Portfolio";
 import Works from "./components/works/Works";
 import Testimonials from "./components/testimonials/Testimonials";
 import Contacts from "./components/contacts/Contacts";
+import "./app.scss";
 
 function App() {
   return (
